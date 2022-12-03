@@ -1,6 +1,6 @@
-# Space-time smoothing models for sub-national measles routine immunization coverage estimation with complex survey data
+# Space-time smoothing models for subnational measles routine immunization coverage estimation with complex survey data
 
-Here are some example R code for the analyses and visualizations in "Space-time smoothing models for sub-national measles routine immunization coverage estimation with complex survey data" (https://arxiv.org/abs/2007.03732).
+Here are some example R code for the analyses and visualizations in "Space-time smoothing models for subnational measles routine immunization coverage estimation with complex survey data" by Dong and Wakefield (2021) (https://doi.org/10.1214/21-aoas1474).
 
 - *s1_data_clean.R*: code for data cleaning. 
 
